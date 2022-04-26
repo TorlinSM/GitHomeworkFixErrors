@@ -68,7 +68,9 @@ Forking a repository allows you to freely experiment with changes without affect
 
 What happens when you clone a repostory?
 
-It send it to a friend
+Nothing. We should have clone a repostory. But, if we clone repository we copy the repository 
+from GitHub.com to your local machine. Cloning a repository pulls down a full copy of all the repository 
+data that GitHub.com has at that point in time, including all versions of every file and folder for the project.
 
 ## Question 11
 
