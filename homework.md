@@ -76,7 +76,8 @@ data that GitHub.com has at that point in time, including all versions of every 
 
 What is a Pull Request?
 
-When you send a file over the internet
+It is an event that takes place in software development when a contributor/developer is ready to begin the process 
+of merging new code changes with the main project repository.
 
 ## Question 12
 
