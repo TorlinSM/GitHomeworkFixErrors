@@ -83,7 +83,7 @@ of merging new code changes with the main project repository.
 
 What is the Git History log?
 
-It lets you see into the future
+This command shows a list of all the commits made to a repository.
 
 ## Question 13
 
