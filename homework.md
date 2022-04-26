@@ -95,7 +95,8 @@ When we push changes, we send the committed changes in our local repository to t
 
 What is Github?
 
-A place for us to store and share our code.
+GitHub is a Git repository hosting service that provides a web-based graphical interface. 
+It is the world's largest coding community.
 
 ## Question 15
 
