@@ -102,7 +102,7 @@ It is the world's largest coding community.
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+We added our comments in our changes in local before we push file in repository.
 
 ## Question 16
 
