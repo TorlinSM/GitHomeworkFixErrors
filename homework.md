@@ -62,7 +62,7 @@ that have been pushed to the repository.
 
 What happens when you `fork` a repository?
 
-You delete it
+Forking a repository allows you to freely experiment with changes without affecting the original project.
 
 ## Question 10 
 
