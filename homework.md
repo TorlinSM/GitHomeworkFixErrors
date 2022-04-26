@@ -45,7 +45,7 @@ h1 {
 
 What is JavaScript?
 
-A programming language used on the internet
+JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive.
 
 ## Question 8
 
