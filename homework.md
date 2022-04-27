@@ -108,7 +108,7 @@ We added our comments in our changes in local before we push file in repository.
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+Visual Studio Code
 
 ## Question 17
 
