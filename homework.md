@@ -118,6 +118,6 @@ Commit messages are a way of communication between team members.
 
 ## Question 18
 
-Where can I look to find help with Git?
+Where can I look to find help with Git? 
 
 Git Help can be accessed from your Git Bash just by typing the command git help.
